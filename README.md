@@ -17,5 +17,6 @@ Instructions:
 Before:
 ![alt text](https://github.com/GabrielMandler/Signal-Noise/blob/master/pictures/airplane3.jpg?raw=true)
 
+
 After:
 ![alt text](https://github.com/GabrielMandler/Signal-Noise/blob/master/pictures/airplaneFinal2.jpg?raw=true)
