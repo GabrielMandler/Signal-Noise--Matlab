@@ -14,5 +14,8 @@ Instructions:
 
 4. Get the NEW output image matching the data inserted!
 
+Before:
 ![alt text](https://github.com/GabrielMandler/Signal-Noise/blob/master/pictures/airplane3.jpg?raw=true)
 
+After:
+![alt text](https://github.com/GabrielMandler/Signal-Noise/blob/master/pictures/airplaneFinal2.jpg?raw=true)
