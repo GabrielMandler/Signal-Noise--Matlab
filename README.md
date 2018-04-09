@@ -14,5 +14,5 @@ Instructions:
 
 4. Get the NEW output image matching the data inserted!
 
-![alt text](https://raw.githubusercontent.com/username/projectname/branch/path/to/img.png)
+![alt text](https://github.com/GabrielMandler/Signal-Noise/blob/master/pictures/airplane3.jpg?raw=true)
 
