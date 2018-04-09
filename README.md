@@ -13,3 +13,6 @@ Instructions:
 3. Choose signal/noise strength, image directory and other parameters and press OK.
 
 4. Get the NEW output image matching the data inserted!
+
+![alt text](https://raw.githubusercontent.com/username/projectname/branch/path/to/img.png)
+
