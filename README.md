@@ -1,7 +1,5 @@
 # Signal-Noise
 
-Project build for an experiment in University of Haifa psychology laboratory.
-
 The program deletes signal from a black and white image, and insert noise randomly, while avoiding inserting noise in the original signal coordinates.
 
 Instructions:
